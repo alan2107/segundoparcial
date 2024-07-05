@@ -1,0 +1,16 @@
+ANCHO = 800
+ALTO = 600  
+
+# Colores
+BLANCO = (255, 255, 255)
+NEGRO = (0, 0, 0)
+GRIS = (200, 200, 200)
+AZUL = (10, 73, 123)
+AMARILLO = (255, 255, 0)
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+CELESTE = (135, 206, 235)
+VERDE = (0, 128, 0)
+NARANJA = (252, 75, 8)
+ROJO = (255, 0, 0)
+MORADO = (128, 0, 128)
