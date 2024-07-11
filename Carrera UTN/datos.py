@@ -1,6 +1,6 @@
 lista=[{'pregunta': '¿Cuándo finalizó la II Guerra Mundial?', 'a': '1945', 'b': '1954', 'c':'1937' ,'correcta': 'a', 'tema':'Historia'}, 
        {'pregunta': '¿Cuánto dura un round de boxeo masculino?', 'a': '5 min.', 'b': '3 min.', 'c':'2 min.' ,'correcta': 'b','tema':'Deportes'},
-       {'pregunta': '¿A qué saga pertenece el personaje de Katniss Everdeen?', 'a': 'Harry Potter', 'b': 'Juegos del Hambre', 'c':'Señor de los Anillos' ,'correcta': 'b','tema':'Cine'},
+       {'pregunta': '¿A qué saga pertenece el personaje  de Katniss Everdeen?', 'a': 'Harry Potter', 'b': 'Juegos del Hambre', 'c':'Señor de los Anillos' ,'correcta': 'b','tema':'Cine'},
        {'pregunta': '¿En qué año llegó Cristóbal Colón a América?', 'a': '1942','b': '1492', 'c':'1945' ,'correcta': 'b', 'tema':'Historia'}, 
        {'pregunta': '¿Cuántos huesos hay en el cuerpo humano?', 'a': '126', 'b': '206', 'c':'166' ,'correcta': 'b','tema':'Naturaleza y Ciencia'},
        {'pregunta': '¿Cómo se llama el estadio del F.C. Barcelona?', 'a': 'Santiago Bernabéu', 'b': 'Metropolitano', 'c':'Camp Nou' ,'correcta': 'c','tema':'Deportes'},
